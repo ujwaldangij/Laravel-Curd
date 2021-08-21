@@ -1,0 +1,28 @@
+nav>a {
+    
+    color: white;
+    transition: all 2s ease-in-out;
+
+}
+
+nav>a:hover {
+    background-color: yellow;
+    color: black;
+}
+.content{
+    min-height: 100vh;
+}
+
+.content h4{
+    font-family: 'MonteCarlo', cursive;
+}
+.man{
+    border: 3px pink solid;
+}
+ i .fas {
+    font-size: 4rem;
+    color: palegreen;
+}
+.active{
+    background-color: brown;
+}

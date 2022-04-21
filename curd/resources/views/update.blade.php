@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <h2 class="text-center text-capitalize py-3 font-weight-light bg-dark text-warning">
+                    <h2 class="text-center text-capitalize py-4 font-weight-light bg-dark text-warning">
                         Update Recode
                     </h2>
                     <form action="" method="post">
